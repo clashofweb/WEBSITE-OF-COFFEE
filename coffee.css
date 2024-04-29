@@ -1,0 +1,130 @@
+
+#nav-bar
+    {
+        background-color: gold; 
+        height:18px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items:center;
+    }
+        
+
+
+body{background-color: rgb(0, 0, 0);}
+.coffee_bar-img{
+display: flex;
+justify-content: center;    
+}
+.coffee_bar-img{
+    width: 45%;
+}   
+.bar-img {display: flex;
+justify-content: center;
+}  
+.homepage-headline{ 
+display: flex; 
+justify-content: center;
+}
+.homepage-text
+{ 
+    display: flex; 
+    justify-content: center;
+    }
+    
+.about-headline { 
+    
+    display: flex;
+    justify-content: center;
+}
+.about-headline2 {
+
+    display: flex;
+    justify-content: center;
+}
+.heading-drinks{
+display: flex;
+justify-content: center;
+}
+.heading-food {
+    display: flex;
+    justify-content: center;
+}
+
+h1{color: rgb(255, 217, 2);
+    font-size: larger;
+ }
+    
+    p{color:rgb(250, 217, 3); 
+    font-size: small;
+}
+    
+
+h2 {
+    color: rgb(255, 217, 2);
+    font-size: larger;
+}
+
+
+    .coffee-images{
+display: flex;
+justify-content: space-evenly;
+}
+
+
+    .coffee-img{width: 20% ;
+}
+.coffee-prices {
+display: flex;
+justify-content: space-evenly;
+}
+.food-options{
+display: flex;
+justify-content: space-evenly;
+
+}
+.food-img{
+
+    width: 20%;
+}
+
+.food-prices {
+display: flex;
+justify-content: space-evenly;
+}
+
+
+.food-prices-2 {
+    display: flex;
+    justify-content: space-evenly;
+    }
+
+    #social-media{
+
+        width: 60%; 
+
+
+    }
+
+    .footer {
+     
+        display: flex;
+        height: 25px;
+        justify-content: center;
+        }
+
+
+    #social-media {
+background-color: gold; 
+height:18px;
+display: flex;
+justify-content: space-evenly;
+align-items:center;
+}
+
+
+
+.Table {
+       display: flex;
+    justify-content: center;
+    color: gold;
+}
